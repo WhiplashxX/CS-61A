@@ -5,3 +5,4 @@ def square(square):
   return mul(square,square)
 square(-2)
 #see in https://pythontutor.com/visualize.html#mode=edit
+#A function that doesn't explictly return a value will return None
